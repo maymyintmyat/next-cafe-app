@@ -54,7 +54,7 @@ const ResponsiveLandingPage = () => {
       <Box>
         <div
           style={{
-            height: "2000px",
+            height: "2200px",
             marginTop: isMobile ? "0" : "-100px",
             display: "flex",
             alignItems: isMobile ? "center" : "flex-start",
