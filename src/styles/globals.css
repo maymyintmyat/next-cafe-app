@@ -31,7 +31,7 @@ body {
 }
 
 .welcome-img {
-  /* background-image: url("../assets/coffeecup.jpg"); */
+  background-image: url("../assets/coffeelanding.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;

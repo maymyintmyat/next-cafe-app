@@ -5,9 +5,19 @@ const SignIn = () => {
   return (
     <>
       <Box sx={{ flexGrow: 1 }}>
-        <AppBar position="static" sx={{ background: "brown", height: "75px" }}>
+        <AppBar
+          position="static"
+          sx={{ background: "#9E9FA5", height: "75px" }}>
           <Toolbar>
-            <Typography variant="h6" sx={{ margin: "0 auto" }}>
+            <Typography
+              variant="h6"
+              sx={{
+                margin: "0 auto",
+                fontFamily: "Outfit",
+                color: "black",
+                fontWeight: "600",
+                fontSize: "1.3rem",
+              }}>
               Cafe La Vie
             </Typography>
           </Toolbar>
