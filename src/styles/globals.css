@@ -31,10 +31,13 @@ body {
 }
 
 .welcome-img {
-  background-image: url("../assets/welldone.jpg");
-  background-repeat: no-repeat;
+  position: relative;
+  background: url("../assets/welldone.jpg") no-repeat;
   background-size: contain;
   background-position: center top;
+  display: flex;
+  align-items: center;
+  margin-bottom: 6rem;
 }
 
 .welcome-part {
