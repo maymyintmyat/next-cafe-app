@@ -51,13 +51,8 @@ const ResponsiveLandingPage = () => {
       <Box>
         <div
           style={{
-            height: "2000px",
             marginTop: isMobile ? "0" : "-100px",
-            display: "flex",
             alignItems: isMobile ? "center" : "flex-start",
-            justifyContent: "center",
-            position: "relative",
-            zIndex: 0,
           }}
           className="welcome-img">
           <AppBar

@@ -50,6 +50,7 @@
     "@types/uuid": "^9.0.3",
     "@webpack-cli/generators": "^3.0.7",
     "mini-css-extract-plugin": "^2.7.6",
+    "url-loader": "^4.1.1",
     "webpack-cli": "^5.1.4"
   }
 }
