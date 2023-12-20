@@ -31,7 +31,7 @@ body {
 }
 
 .welcome-img {
-  background-image: url("../../public/yespls.png");
+  background-image: url("../assets/welldone.jpg");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: center top;
